@@ -1,0 +1,13 @@
+pandas
+numpy
+
+torch
+psutil
+
+
+matplotlib
+seaborn
+
+
+tqdm
+torchtext
