@@ -1,13 +1,10 @@
 pandas
 numpy
-
 torch
+torchtext
 psutil
-
-
 matplotlib
 seaborn
-
-
 tqdm
-torchtext
+jupyter
+notebook
