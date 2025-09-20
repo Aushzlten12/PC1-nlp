@@ -1,2 +1,4 @@
 .vscode/
 .devcontainer/
+*.mp4
+*.zip
